@@ -1,0 +1,7 @@
+{
+    "require": {
+        "google/apiclient": "^2.0.0@RC",
+        "guzzlehttp/guzzle": "~5.2",
+        "asimlqt/php-google-spreadsheet-client": "2.3.*"
+    }
+}
